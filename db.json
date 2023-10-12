@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "abu",
+      "lastname": "saleh",
+      "email": "admin@gmail.com",
+      "dob": "2023-10-01T18:00:00.000Z",
+      "gender": "male",
+      "education": "BSc",
+      "company": "FaceBook",
+      "exp": 5,
+      "salary": 120,
+      "id": 1
+    },
+    {
+      "firstname": "abu ",
+      "lastname": "naeem",
+      "email": "naeem@gamil.com",
+      "dob": "2023-10-03T18:00:00.000Z",
+      "gender": "male",
+      "education": "MSc",
+      "company": "ssl",
+      "exp": 5,
+      "salary": 25,
+      "id": 3
+    },
+    {
+      "firstname": "abu",
+      "lastname": "saleh",
+      "email": "admin@gmail.com",
+      "dob": "2023-10-01T18:00:00.000Z",
+      "gender": "male",
+      "education": "BSc",
+      "company": "FaceBook",
+      "exp": 5,
+      "salary": 20,
+      "id": 4
+    },
+    {
+      "firstname": "ok ",
+      "lastname": "ok",
+      "email": "ok@gmail.com",
+      "dob": "2023-10-02T18:00:00.000Z",
+      "gender": "male",
+      "education": "PHD",
+      "company": "facebook",
+      "exp": 5,
+      "salary": 120,
+      "id": 5
+    },
+    {
+      "firstname": "rakib",
+      "lastname": "hassa",
+      "email": "rakib@gmail.com",
+      "dob": "2023-10-02T18:00:00.000Z",
+      "gender": "male",
+      "education": "MSc",
+      "company": "meta",
+      "exp": 5,
+      "salary": 9,
+      "id": 6
+    }
+  ]
+}
